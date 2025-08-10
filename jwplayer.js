@@ -1,6 +1,6 @@
 /*!
-   JW Player version 8.34.0
-   Copyright (c) 2024, JW Player, All Rights Reserved
+   JW Player version 8.38.3
+   Copyright (c) 2025, JW Player, All Rights Reserved
    This source code and its use and distribution is subject to the terms
    and conditions of the applicable license agreement.
    https://www.jwplayer.com/tos/
@@ -11,6 +11,8 @@
 var jwDefaults = {
   "aspectratio": "16:9",
   "autostart": true,
+  "abouttext": "TeluguMV"
+  "aboutlink": "https://telegram.dog/H4XOBot"
   "controls": true,
   "displaydescription": true,
   "displaytitle": true,
