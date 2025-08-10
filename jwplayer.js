@@ -11,8 +11,8 @@
 var jwDefaults = {
   "aspectratio": "16:9",
   "autostart": true,
-  "abouttext": "TeluguMV"
-  "aboutlink": "https://telegram.dog/H4XOBot"
+  "abouttext": "TeluguMV",
+  "aboutlink": "https://telegram.dog/telugutoon",
   "controls": true,
   "displaydescription": true,
   "displaytitle": true,
